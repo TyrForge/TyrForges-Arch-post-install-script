@@ -73,5 +73,3 @@ echo "Finalizing..."
 sudo systemctl --now enable sddm.service
 sudo reboot
 
-echo "Post-install complete! Reboot to enter your new desktop."
-
