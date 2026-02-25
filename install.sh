@@ -33,7 +33,9 @@ sudo pacman -S --needed --noconfirm \
     ffmpeg \
     vlc \
     vlc-plugins-all \
-    gst-plugins-* \
+    gst-plugins-good \
+    gst-plugins-bad \
+    gst-plugins-ugly \ \
     gst-libav
 
 # 3. Install KDE Plasma & SDDM
